@@ -467,7 +467,7 @@ U 1 1 5C9DCAEE
 P 9950 1200
 F 0 "J104" H 9922 1178 50  0000 R CNN
 F 1 "Conn_01x01_Male" H 9922 1223 50  0001 R CNN
-F 2 "connectors:pad_3.0x2.0mm" H 9950 1200 50  0001 C CNN
+F 2 "connectors:pad_3.0x2.0mm_castelated" H 9950 1200 50  0001 C CNN
 F 3 "~" H 9950 1200 50  0001 C CNN
 	1    9950 1200
 	-1   0    0    1   
@@ -478,7 +478,7 @@ U 1 1 5C9DF4D7
 P 9950 1300
 F 0 "J105" H 9922 1278 50  0000 R CNN
 F 1 "Conn_01x01_Male" H 9922 1323 50  0001 R CNN
-F 2 "connectors:pad_3.0x2.0mm" H 9950 1300 50  0001 C CNN
+F 2 "connectors:pad_3.0x2.0mm_castelated" H 9950 1300 50  0001 C CNN
 F 3 "~" H 9950 1300 50  0001 C CNN
 	1    9950 1300
 	-1   0    0    1   
@@ -510,7 +510,7 @@ U 1 1 5C9DF89C
 P 2300 1200
 F 0 "J101" H 2408 1289 50  0000 C CNN
 F 1 "Conn_01x01_Male" H 2272 1223 50  0001 R CNN
-F 2 "connectors:pad_3.0x2.0mm" H 2300 1200 50  0001 C CNN
+F 2 "connectors:pad_3.0x2.0mm_castelated" H 2300 1200 50  0001 C CNN
 F 3 "~" H 2300 1200 50  0001 C CNN
 	1    2300 1200
 	1    0    0    -1  
@@ -563,7 +563,7 @@ U 1 1 5CA00A79
 P 2300 1450
 F 0 "J102" H 2408 1539 50  0000 C CNN
 F 1 "Conn_01x01_Male" H 2272 1473 50  0001 R CNN
-F 2 "connectors:pad_3.0x2.0mm" H 2300 1450 50  0001 C CNN
+F 2 "connectors:pad_3.0x2.0mm_castelated" H 2300 1450 50  0001 C CNN
 F 3 "~" H 2300 1450 50  0001 C CNN
 	1    2300 1450
 	1    0    0    -1  
@@ -748,7 +748,7 @@ U 1 1 5CA578F0
 P 2300 1700
 F 0 "J103" H 2408 1789 50  0000 C CNN
 F 1 "Conn_01x01_Male" H 2272 1723 50  0001 R CNN
-F 2 "connectors:pad_1.5x2.5mm" H 2300 1700 50  0001 C CNN
+F 2 "connectors:pad_1.5x2.5mm_castelated" H 2300 1700 50  0001 C CNN
 F 3 "~" H 2300 1700 50  0001 C CNN
 	1    2300 1700
 	1    0    0    -1  
