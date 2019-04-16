@@ -11,6 +11,7 @@
   (lib (name inductor)(type KiCad)(uri ${KIPRJMOD}/kicad_libs/footprints/inductor.pretty)(options "")(descr ""))
   (lib (name jst)(type KiCad)(uri ${KIPRJMOD}/kicad_libs/footprints/jst.pretty)(options "")(descr ""))
   (lib (name leds)(type KiCad)(uri ${KIPRJMOD}/kicad_libs/footprints/leds.pretty)(options "")(descr ""))
+  (lib (name lensholders)(type KiCad)(uri ${KIPRJMOD}/kicad_libs/footprints/lensholders.pretty)(options "")(descr ""))
   (lib (name lga)(type KiCad)(uri ${KIPRJMOD}/kicad_libs/footprints/lga.pretty)(options "")(descr ""))
   (lib (name logo)(type KiCad)(uri ${KIPRJMOD}/kicad_libs/footprints/logo.pretty)(options "")(descr ""))
   (lib (name modules)(type KiCad)(uri ${KIPRJMOD}/kicad_libs/footprints/modules.pretty)(options "")(descr ""))
