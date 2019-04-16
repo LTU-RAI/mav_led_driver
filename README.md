@@ -1,6 +1,6 @@
 # Constant current LED driver with camera flash sync and over-current protection
 
-A simple LED driver intended for use on Micro Aerial Vehicles (MAV). The PCB design is made so it can be used as a module to be soldered on another PCB.
+A simple LED driver intended for use on Micro Aerial Vehicles (MAV), where the minimum LED forward voltage should be 20V, and max 50V, by having multiple panels in series. The PCB design is made so it can be used as a module to be soldered on another PCB.
 
 Design specifications:
 
